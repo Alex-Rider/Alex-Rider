@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-Rider
-- 👀 I’m interested in Python and Networks
-- 🌱 I’m currently learning Network automation with Python
+- 👀 I’m interested in Python and Networks automation
+- 🌱 I’m currently learning Go lang.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
